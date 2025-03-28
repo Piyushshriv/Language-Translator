@@ -1,6 +1,3 @@
-Here's a detailed GitHub repository description for your **MERN-based Language Translator Web Application**:  
-
----
 
 # 🌍 MERN-Based Language Translator Web Application  
 
