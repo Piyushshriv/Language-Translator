@@ -65,9 +65,4 @@ We welcome contributions! If you’d like to add new features, improve the UI, o
 
 ---  
 
-## 📬 Contact & Support  
-📧 Have questions or suggestions? Reach out via **[Your Email/Portfolio Link]**.  
-🔗 **Live Demo** – [Add Live URL Here]  
-🔗 **GitHub Repository** – [Add GitHub Repo Link Here]  
-
 ✨ If you find this project useful, don’t forget to **star ⭐ the repository**! Happy coding! 🚀🌍
